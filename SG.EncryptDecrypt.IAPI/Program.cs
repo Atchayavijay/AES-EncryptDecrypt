@@ -11,18 +11,22 @@ var apiUrl = builder.Configuration["CryptoApi:BaseUrl"]
 builder.Services.AddHttpClient("CryptoApi", client =>
 {
     client.BaseAddress = new Uri(apiUrl);
-    client.Timeout = TimeSpan.FromSeconds(30);
+    client.Timeout = TimeSpan.FromSeconds(120);
 });
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
+
 app.MapControllers();
+
+app.MapGet("/", () => Results.Ok(new
+{
+    Status = "Success",
+    Message = "Encrypt Decrypt IAPI is running"
+}));
 
 app.Run();
