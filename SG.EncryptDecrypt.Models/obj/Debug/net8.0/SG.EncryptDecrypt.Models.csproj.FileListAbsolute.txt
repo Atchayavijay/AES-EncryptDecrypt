@@ -1,0 +1,11 @@
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\bin\Debug\net8.0\SG.EncryptDecrypt.Models.deps.json
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\bin\Debug\net8.0\SG.EncryptDecrypt.Models.dll
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\bin\Debug\net8.0\SG.EncryptDecrypt.Models.pdb
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\obj\Debug\net8.0\SG.EncryptDecrypt.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\obj\Debug\net8.0\SG.EncryptDecrypt.Models.AssemblyInfoInputs.cache
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\obj\Debug\net8.0\SG.EncryptDecrypt.Models.AssemblyInfo.cs
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\obj\Debug\net8.0\SG.EncryptDecrypt.Models.csproj.CoreCompileInputs.cache
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\obj\Debug\net8.0\SG.EncryptDecrypt.Models.dll
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\obj\Debug\net8.0\refint\SG.EncryptDecrypt.Models.dll
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\obj\Debug\net8.0\SG.EncryptDecrypt.Models.pdb
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.Models\obj\Debug\net8.0\ref\SG.EncryptDecrypt.Models.dll

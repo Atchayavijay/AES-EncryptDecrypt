@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SG.EncryptDecrypt.API", "SG.EncryptDecrypt.API\SG.EncryptDecrypt.API.csproj", "{6052E26C-26E6-4EAD-B42E-D721C094C41B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5DB5B98E-A185-4C14-8E4C-C149971096FC} = {5DB5B98E-A185-4C14-8E4C-C149971096FC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SG.EncryptDecrypt.IAPI", "SG.EncryptDecrypt.IAPI\SG.EncryptDecrypt.IAPI.csproj", "{2FC79D64-3B01-49E9-B5B8-355346C7CE09}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5DB5B98E-A185-4C14-8E4C-C149971096FC} = {5DB5B98E-A185-4C14-8E4C-C149971096FC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SG.EncryptDecrypt.Models", "SG.EncryptDecrypt.Models\SG.EncryptDecrypt.Models.csproj", "{5DB5B98E-A185-4C14-8E4C-C149971096FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6052E26C-26E6-4EAD-B42E-D721C094C41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6052E26C-26E6-4EAD-B42E-D721C094C41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6052E26C-26E6-4EAD-B42E-D721C094C41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6052E26C-26E6-4EAD-B42E-D721C094C41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC79D64-3B01-49E9-B5B8-355346C7CE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC79D64-3B01-49E9-B5B8-355346C7CE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC79D64-3B01-49E9-B5B8-355346C7CE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC79D64-3B01-49E9-B5B8-355346C7CE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB5B98E-A185-4C14-8E4C-C149971096FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB5B98E-A185-4C14-8E4C-C149971096FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB5B98E-A185-4C14-8E4C-C149971096FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB5B98E-A185-4C14-8E4C-C149971096FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935CA3EC-8580-4141-A7E7-590C50B4CC01}
+	EndGlobalSection
+EndGlobal

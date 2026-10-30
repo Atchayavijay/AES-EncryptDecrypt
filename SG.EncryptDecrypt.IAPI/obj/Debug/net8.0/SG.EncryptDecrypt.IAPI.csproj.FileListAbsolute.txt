@@ -1,0 +1,8 @@
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.IAPI\obj\Debug\net8.0\SG.EncryptDecrypt.IAPI.csproj.AssemblyReference.cache
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.IAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.IAPI\obj\Debug\net8.0\SG.EncryptDecrypt.IAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.IAPI\obj\Debug\net8.0\SG.EncryptDecrypt.IAPI.AssemblyInfoInputs.cache
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.IAPI\obj\Debug\net8.0\SG.EncryptDecrypt.IAPI.AssemblyInfo.cs
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.IAPI\obj\Debug\net8.0\SG.EncryptDecrypt.IAPI.csproj.CoreCompileInputs.cache
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.IAPI\obj\Debug\net8.0\SG.EncryptDecrypt.IAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a3448518\source\repos\SG.EncryptDecrypt.API\SG.EncryptDecrypt.IAPI\obj\Debug\net8.0\SG.EncryptDecrypt.IAPI.MvcApplicationPartsAssemblyInfo.cache

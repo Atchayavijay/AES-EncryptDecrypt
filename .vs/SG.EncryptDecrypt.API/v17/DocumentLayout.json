@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC79D64-3B01-49E9-B5B8-355346C7CE09}|SG.EncryptDecrypt.IAPI\\SG.EncryptDecrypt.IAPI.csproj|c:\\users\\a3448518\\source\\repos\\sg.encryptdecrypt.api\\sg.encryptdecrypt.iapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FC79D64-3B01-49E9-B5B8-355346C7CE09}|SG.EncryptDecrypt.IAPI\\SG.EncryptDecrypt.IAPI.csproj|solutionrelative:sg.encryptdecrypt.iapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6052E26C-26E6-4EAD-B42E-D721C094C41B}|SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API.csproj|c:\\users\\a3448518\\source\\repos\\sg.encryptdecrypt.api\\sg.encryptdecrypt.api\\common\\ienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6052E26C-26E6-4EAD-B42E-D721C094C41B}|SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API.csproj|solutionrelative:sg.encryptdecrypt.api\\common\\ienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6052E26C-26E6-4EAD-B42E-D721C094C41B}|SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API.csproj|c:\\users\\a3448518\\source\\repos\\sg.encryptdecrypt.api\\sg.encryptdecrypt.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6052E26C-26E6-4EAD-B42E-D721C094C41B}|SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API.csproj|solutionrelative:sg.encryptdecrypt.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6052E26C-26E6-4EAD-B42E-D721C094C41B}|SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API.csproj|c:\\users\\a3448518\\source\\repos\\sg.encryptdecrypt.api\\sg.encryptdecrypt.api\\common\\aesgcmenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6052E26C-26E6-4EAD-B42E-D721C094C41B}|SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API.csproj|solutionrelative:sg.encryptdecrypt.api\\common\\aesgcmenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB5B98E-A185-4C14-8E4C-C149971096FC}|SG.EncryptDecrypt.Models\\SG.EncryptDecrypt.Models.csproj|c:\\users\\a3448518\\source\\repos\\sg.encryptdecrypt.api\\sg.encryptdecrypt.models\\cryptorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB5B98E-A185-4C14-8E4C-C149971096FC}|SG.EncryptDecrypt.Models\\SG.EncryptDecrypt.Models.csproj|solutionrelative:sg.encryptdecrypt.models\\cryptorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC79D64-3B01-49E9-B5B8-355346C7CE09}|SG.EncryptDecrypt.IAPI\\SG.EncryptDecrypt.IAPI.csproj|c:\\users\\a3448518\\source\\repos\\sg.encryptdecrypt.api\\sg.encryptdecrypt.iapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC79D64-3B01-49E9-B5B8-355346C7CE09}|SG.EncryptDecrypt.IAPI\\SG.EncryptDecrypt.IAPI.csproj|solutionrelative:sg.encryptdecrypt.iapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.IAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SG.EncryptDecrypt.IAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.IAPI\\appsettings.json",
+              "RelativeToolTip": "SG.EncryptDecrypt.IAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-21T08:57:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CryptoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.Models\\CryptoRequest.cs",
+              "RelativeDocumentMoniker": "SG.EncryptDecrypt.Models\\CryptoRequest.cs",
+              "ToolTip": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.Models\\CryptoRequest.cs",
+              "RelativeToolTip": "SG.EncryptDecrypt.Models\\CryptoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:51:56.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.IAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SG.EncryptDecrypt.IAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.IAPI\\Program.cs",
+              "RelativeToolTip": "SG.EncryptDecrypt.IAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:51:06.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API\\Program.cs",
+              "RelativeDocumentMoniker": "SG.EncryptDecrypt.API\\Program.cs",
+              "ToolTip": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API\\Program.cs",
+              "RelativeToolTip": "SG.EncryptDecrypt.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:47:44.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEnService.cs",
+              "DocumentMoniker": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API\\Common\\IEnService.cs",
+              "RelativeDocumentMoniker": "SG.EncryptDecrypt.API\\Common\\IEnService.cs",
+              "ToolTip": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API\\Common\\IEnService.cs",
+              "RelativeToolTip": "SG.EncryptDecrypt.API\\Common\\IEnService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:45:27.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AesGcmEnService.cs",
+              "DocumentMoniker": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API\\Common\\AesGcmEnService.cs",
+              "RelativeDocumentMoniker": "SG.EncryptDecrypt.API\\Common\\AesGcmEnService.cs",
+              "ToolTip": "C:\\Users\\a3448518\\source\\repos\\SG.EncryptDecrypt.API\\SG.EncryptDecrypt.API\\Common\\AesGcmEnService.cs",
+              "RelativeToolTip": "SG.EncryptDecrypt.API\\Common\\AesGcmEnService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:45:19.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

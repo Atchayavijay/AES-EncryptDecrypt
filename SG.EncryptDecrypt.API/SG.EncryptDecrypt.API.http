@@ -1,0 +1,6 @@
+@SG.EncryptDecrypt.API_HostAddress = http://localhost:5070
+
+GET {{SG.EncryptDecrypt.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
